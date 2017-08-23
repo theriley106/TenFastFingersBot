@@ -48,3 +48,6 @@ def AntiCheat():
 	pyautogui.press('tab')
 	time.sleep(.5)
 	pyautogui.press('enter')
+
+if __name__ == "__main__":
+	TypingCompetition()
